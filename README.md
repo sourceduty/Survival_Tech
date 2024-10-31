@@ -10,11 +10,14 @@ One of Survival Tech’s key functions is to help users understand and utilize b
 In addition to providing technical guidance, Survival Tech encourages a hands-on, resourceful approach to survival. It offers step-by-step instructions, troubleshooting support, and best practices for real-world application, all written in an accessible style to ensure that users can understand and implement advice quickly. The aim is to empower users to be self-sufficient and adaptable, equipping them with knowledge that can help them stay safe, prepared, and resilient in the wilderness.
 
 #
+### Custom GPTs
+
+Survival Tech is best for individuals seeking to learn survival skills and technologies, with an emphasis on practical techniques and adaptability. [Emergency Survival Gear](https://github.com/sourceduty/Emergency_Survival_Gear) is more focused on gear and supplies, ideal for those preparing emergency kits or looking for recommendations on reliable survival equipment.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
-<br>
-[Emergency Survival Gear](https://github.com/sourceduty/Emergency_Survival_Gear)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
