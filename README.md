@@ -18,6 +18,8 @@ Survival Tech is best for individuals seeking to learn survival skills and techn
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Off-Grid Wiki](https://github.com/sourceduty/Off-Grid_Wiki)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
